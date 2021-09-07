@@ -55,6 +55,9 @@
 		<dc:creator id="author-2">José da Fonseca</dc:creator>
 		<meta property="file-as" refines="#author-2">Da Fonseca, José</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
+		<dc:contributor id="writer-of-introduction">James Millington</dc:contributor>
+		<meta property="file-as" refines="#writer-of-introduction">Millington, James</meta>
+		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
@@ -89,6 +92,12 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="of-the-man.xhtml"/>
+		<itemref idref="familiar-phrases.xhtml"/>
+		<itemref idref="familiar-dialogues.xhtml"/>
+		<itemref idref="familiar-letters.xhtml"/>
+		<itemref idref="anecdotes.xhtml"/>
+		<itemref idref="idiotims-and-proverbs.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
