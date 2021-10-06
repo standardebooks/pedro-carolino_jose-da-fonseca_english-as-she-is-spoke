@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="anecdotes.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Matched text is a deliberate typo.</reason>
+		</ignore>
+	</file>
+	<file path="familiar-phrases.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is a deliberate typo.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
