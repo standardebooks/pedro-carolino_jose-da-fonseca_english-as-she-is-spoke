@@ -109,7 +109,7 @@
 		<itemref idref="familiar-dialogues.xhtml"/>
 		<itemref idref="familiar-letters.xhtml"/>
 		<itemref idref="anecdotes.xhtml"/>
-		<itemref idref="idiotims-and-proverbs.xhtml"/>
+		<itemref idref="idiotisms-and-proverbs.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
