@@ -30,6 +30,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">English as She Is Spoke</dc:title>
 		<meta property="file-as" refines="#title">English as She Is Spoke</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Or, A Jest in Sober Earnest</dc:title>
+		<meta property="file-as" refines="#subtitle">Or, A Jest in Sober Earnest</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">English as She Is Spoke: Or, A Jest in Sober Earnest</dc:title>
+		<meta property="file-as" refines="#fulltitle">English as She Is Spoke</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Errors and blunders, Literary</dc:subject>
 		<dc:subject id="subject-2">English language -- Conversation and phrase books -- Portuguese</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -52,16 +59,17 @@
 		<dc:creator id="author-1">Pedro Carolino</dc:creator>
 		<meta property="file-as" refines="#author-1">Carolino, Pedro</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">wpr</meta>
 		<dc:creator id="author-2">José da Fonseca</dc:creator>
 		<meta property="file-as" refines="#author-2">Da Fonseca, José</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<dc:contributor id="writer-of-introduction">James Millington</dc:contributor>
 		<meta property="file-as" refines="#writer-of-introduction">Millington, James</meta>
 		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">win</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Joseph Ducreux</dc:contributor>
+		<meta property="file-as" refines="#artist">Ducreux, Joseph</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joseph_Ducreux</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2003019253</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Doran Gaston</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Gaston, Doran</meta>
