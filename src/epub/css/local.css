@@ -35,6 +35,10 @@ ul{
 	list-style: none;
 }
 
+li + li{
+	margin-top: 1em;
+}
+
 #familiar-phrases > p{
 	font-style: italic;
 	text-align: center;
