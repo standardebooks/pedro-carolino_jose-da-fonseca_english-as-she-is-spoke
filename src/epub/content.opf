@@ -54,6 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30411</dc:source>
 		<dc:source>https://www.google.com/books/edition/English_as_She_is_Spoke/TZFZ95l2QtEC</dc:source>
+		<dc:source>https://archive.org/details/onovoguiadaconve00fons</dc:source>
 		<meta property="se:production-notes">Spelling was not modernized as bad spelling is part of the joke.</meta>
 		<meta property="se:word-count">8193</meta>
 		<meta property="se:reading-ease.flesch">83.86</meta>
