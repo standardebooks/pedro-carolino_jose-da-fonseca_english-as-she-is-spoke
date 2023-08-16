@@ -8,7 +8,7 @@
 	</file>
 	<file path="familiar-phrases.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-003</code>
 			<reason>Matched text is a deliberate typo.</reason>
 		</ignore>
 	</file>
