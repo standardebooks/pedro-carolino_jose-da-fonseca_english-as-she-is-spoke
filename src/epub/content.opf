@@ -55,7 +55,7 @@
 		<dc:source>https://archive.org/details/onovoguiadaconve00fons</dc:source>
 		<meta property="se:production-notes">Spelling was not modernized as bad spelling is part of the joke.</meta>
 		<meta property="se:word-count">8201</meta>
-		<meta property="se:reading-ease.flesch">83.86</meta>
+		<meta property="se:reading-ease.flesch">85.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/English_as_She_Is_Spoke</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/pedro-carolino_jose-da-fonseca_english-as-she-is-spoke</meta>
 		<dc:creator id="author-1">Pedro Carolino</dc:creator>
