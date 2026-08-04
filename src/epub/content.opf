@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2021010273</meta>
 		<meta property="schema:genre">Comedy</meta>
-		<dc:abstract>A phrasebook of unintentionally hilarious English.</dc:abstract>
+		<meta property="schema:abstract">A phrasebook of unintentionally hilarious English.</meta>
 		<dc:description>
 			&lt;p&gt;In 1855 &lt;a href="https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca"&gt;Pedro Carolino&lt;/a&gt; set out to write an English phrasebook for Portuguese travelers visiting England. The only problem was that he couldn’t speak English. Undeterred by this minor setback, Carolino decided to base his guide on a respected Portuguese–French phrasebook written by &lt;a href="https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca"&gt;José da Fonseca&lt;/a&gt;. He took the French translations of Portuguese, and used a French–English dictionary to translate &lt;em&gt;those&lt;/em&gt; to English.&lt;/p&gt;
 			&lt;p&gt;The result was an unintentional comedy of literal translation, as English phrases like “the walls have ears” became “the walls have hearsay” (via the Portuguese &lt;i&gt;as paredes têm ouvidos&lt;/i&gt;), and “waiting for someone to open the door” became “to craunch the marmoset” (via a ridiculous misreading of archaic English, and the shape of the grotesque door knockers popular at the time).&lt;/p&gt;
